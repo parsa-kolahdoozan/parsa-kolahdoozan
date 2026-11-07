@@ -1,15 +1,15 @@
 <!-- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2a47,100:0e75b6&height=220&section=header&text=Parsa%20Kolahdoozan&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%20%7C%20%20Django%20%C2%B7%20Next.js&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2a47,100:0e75b6&height=220&section=header&text=parsa%20kolahdoozan&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%20%7C%20%20Django%20%C2%B7%20Next.js&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend%3A+Django+-+DRF+-+Channels+-+Celery;Frontend%3A+Next.js+-+React+-+TypeScript;Clean+Code%2C+Scalable+Architecture" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Parsa-Kolahdoozan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=parsa-kolahdoozan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 <a href="https://linkedin.com/in/parsa-kolahdoozan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" /></a>
 <a href="mailto:parsakolahdoozan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
-<a href="https://github.com/Parsa-Kolahdoozan"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" /></a>
+<a href="https://github.com/parsa-kolahdoozan"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" /></a>
 
 </div>
 
@@ -51,7 +51,7 @@ Software developer working across the full stack — **Django / DRF** on the bac
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parsa-Kolahdoozan&theme=tokyo-night&hide_border=true&area=true" width="92%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parsa-kolahdoozan&theme=tokyo-night&hide_border=true&area=true" width="92%"/>
 </div>
 
 ---
@@ -59,7 +59,7 @@ Software developer working across the full stack — **Django / DRF** on the bac
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Parsa-Kolahdoozan/Parsa-Kolahdoozan/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Parsa-Kolahdoozan/parsa-kolahdoozan/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 ---
@@ -80,13 +80,13 @@ Software developer working across the full stack — **Django / DRF** on the bac
 </div> -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2a47,100:0e75b6&height=220&section=header&text=Parsa%20Kolahdoozan&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Python%20Backend%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2a47,100:0e75b6&height=220&section=header&text=parsa%20kolahdoozan&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Python%20Backend%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Python+Backend+%7C+Full-Stack+Developer;Django+-+DRF+-+FastAPI+-+Channels+-+Celery;Event-driven+and+real-time+systems;Next.js+-+React+-+TypeScript" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Parsa-Kolahdoozan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=parsa-kolahdoozan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 <a href="https://linkedin.com/in/parsa-kolahdoozan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" /></a>
 <a href="mailto:parsakolahdoozan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
 
@@ -132,7 +132,7 @@ I take projects from domain-driven API design and **event-driven, real-time** fe
 
 <div align="center">
 <!-- <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170"/> -->
-<img src="https://streak-stats.demolab.com/?user=Parsa-Kolahdoozan&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=parsa-kolahdoozan&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 <!-- <div align="center">
@@ -149,7 +149,7 @@ I take projects from domain-driven API design and **event-driven, real-time** fe
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Parsa-Kolahdoozan/Parsa-Kolahdoozan/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/parsa-kolahdoozan/parsa-kolahdoozan/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 ---
